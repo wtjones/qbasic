@@ -114,7 +114,10 @@ zeroship.bas
 - original modified date: 1/1/1997 3:10 PM
 - Early version of zshipmap.bas with a stationary board.
 
-MIT Open Source License. See mit-license.txt for details.
+License info:
+
+Code is released under the MIT Open Source License. See mit-license.txt for details.
+The md2 files in data/models are not my creation but from contributers to polycount.
 
 
 

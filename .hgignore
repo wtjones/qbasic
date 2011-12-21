@@ -1,4 +1,3 @@
 syntax: glob
 .\qb45
 .\samples
-qb.ini

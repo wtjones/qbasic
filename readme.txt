@@ -30,7 +30,8 @@ matrix.bas
 
 md2view.bas
  - original modified date: 3/8/2001 9:35 PM
- - displays quake 2 model files
+ - displays quake 2 model files in wireframe
+ - models shamelessly taken from polycount
  
 memcpy.bas
  - original modified date: 12/12/1997 8:29 AM

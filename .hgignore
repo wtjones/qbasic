@@ -1,3 +1,5 @@
 syntax: glob
 .\qb45
 .\samples
+QB.INI
+qb.ini

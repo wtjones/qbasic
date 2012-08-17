@@ -3,7 +3,7 @@ This is a collection of my qbasic programs written in the 90's and early 00's. E
 For this 2011 release:
  - Performed minor cleanup such as removing outdated contact info.
  - Tested with QB 4.5 (with /l qb.qlb) in DOSBox. 
- - QB64 does not properly run many programs due to low level access and unsuppored functions
+ - QB64 does not properly run many programs due to low level access and unsupported functions
 
 
 3dtest.bas 

@@ -3,3 +3,5 @@ syntax: glob
 .\samples
 QB.INI
 qb.ini
+*.OBJ
+*.TMP

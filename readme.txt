@@ -18,7 +18,11 @@ For this 2011 release:
 cron.bas
  - original modified date: 5/11/2001 10:58 PM
  - Functional Tron lightcycle clone for multiple players. Also supports single player with poor AI.
- 
+
+farbfeld.bas
+- original year: 2016
+- sample images (.ff) are from https://github.com/mehlon/farbfeld
+
 linklist.bas
 - original modified date: 12/10/2000 9:16 PM
 - Demonstrates an array-based linked list in the form of a scrolling stars.

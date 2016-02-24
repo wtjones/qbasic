@@ -21,7 +21,7 @@ cron.bas
 
 farbfeld.bas
 - original year: 2016
-- sample images (.ff) are from https://github.com/mehlon/farbfeld
+- sample images (.ff) are from <https://github.com/mehlon/farbfeld>
 
 linklist.bas
 - original modified date: 12/10/2000 9:16 PM
